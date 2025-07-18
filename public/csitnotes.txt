@@ -1,0 +1,55 @@
+csitnotes
+clientId=79254915955-t9939jkhajg0e9jolfkfdlq35gjhplie.apps.googleusercontent.com
+
+secretKey=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
+
+9867054104-->
+ozit vlxa wkou ftqx   -->incubation
+
+
+
+
+"[{"name":"ram Dhami","email":"bikramdhami334@gmail.com","position":"chariperson","hierarchy":1,"photo":"IVuHEdScBwEnRSoB9UYKHAI0sPQxgLXuzw6sY4we.jpg"},{"name":"bikram","email":"bepan88673@dalebig.com","position":"dhami","hierarchy":2,"photo":"2QL4FTidLbfXVhPwk4pB1hL6qwlk4AggqTCxyLjZ.png"}]"
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts

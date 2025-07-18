@@ -1,0 +1,40 @@
+{
+  "allFiles": [
+    {
+      "parents": [
+        "1HARVwjxtK1-JoUI8vYjAiShGH5YNYZml"
+      ],
+      "id": "1ayEfrRZNBZu-mO-s1DOc1p7VfCg0GQcx",
+      "name": "Linux case study chapter from book.pdf",
+      "mimeType": "application/pdf",
+      "webViewLink": "https://drive.google.com/file/d/1ayEfrRZNBZu-mO-s1DOc1p7VfCg0GQcx/view?usp=drivesdk"
+    },
+    {
+      "parents": [
+        "1HARVwjxtK1-JoUI8vYjAiShGH5YNYZml"
+      ],
+      "id": "16PrmHNer1CDtUKJnDJ4v9oz9KaQ0hE-M",
+      "name": "Bishal Linux Case Study.docx",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "webViewLink": "https://docs.google.com/document/d/16PrmHNer1CDtUKJnDJ4v9oz9KaQ0hE-M/edit?usp=drivesdk&ouid=104518133683467276622&rtpof=true&sd=true"
+    },
+    {
+      "parents": [
+        "1HARVwjxtK1-JoUI8vYjAiShGH5YNYZml"
+      ],
+      "id": "1FjZsLuKyky_ZkFyL_fEaLWicSe2Ep0fi",
+      "name": "_OS Complete Note!!!.pdf",
+      "mimeType": "application/pdf",
+      "webViewLink": "https://drive.google.com/file/d/1FjZsLuKyky_ZkFyL_fEaLWicSe2Ep0fi/view?usp=drivesdk"
+    },
+    {
+      "parents": [
+        "1HARVwjxtK1-JoUI8vYjAiShGH5YNYZml"
+      ],
+      "id": "1AhStEqJlOZY2ZdjRAfCKCISHKqj_VCRj",
+      "name": "Bishal Linux Case Study.pdf",
+      "mimeType": "application/pdf",
+      "webViewLink": "https://drive.google.com/file/d/1AhStEqJlOZY2ZdjRAfCKCISHKqj_VCRj/view?usp=drivesdk"
+    }
+  ]
+}
